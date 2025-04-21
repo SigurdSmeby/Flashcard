@@ -1,0 +1,15 @@
+Basert på kilden lag seks vanlige spøsmål svar oppgaver og seks andre multiple choice spørsmål. Multiple choise skal ha en forklarende del også slik som dette:
+
+Dette er formatet jeg vil ha muntiple choice på:
+Spørsmål: Hvor skjer automatisk minneallokering hovedsakelig?
+svaralternativ: 1) På stakken for lokale variabler og funksjonsparametere. 2) På heapen ved bruk av new-operatoren. 3) I statisk allokert minne for globale variabler. 4) I virtuelt minne administrert av operativsystemet
+
+Svar: 1,
+Automatisk minneallokering skjer på stakken. Når en funksjon kalles, opprettes en stack frame som inneholder funksjonens parametere og lokale variabler. Denne allokeringen og deallokeringen skjer automatisk når funksjonen henholdsvis kalles og returnerer. 
+
+Alternativ 'På heapen' beskriver dynamisk minneallokering som foregår på heapen ved bruk av new.
+Alternativ 'I statisk' beskriver statisk minneallokering for globale variabler.
+Alternativ 'I virtuelt' refererer til en minnehåndteringsteknikk på operativsystemnivå, ikke en spesifikk plassering for automatisk allokering sett fra programmet.
+
+OBS! Som du ser bruker jeg IKKE alternativ 1, alternativ 2... i forkalringen. Dette er på grunn av at flashcardsappen jeg bruker har random rekkefølge på svaralternativene. Jeg skiller isteden for på hvordan alternativene er skrevet.
+Følg formatet nyaktig!
